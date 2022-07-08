@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winbase.h(9531,5): warning C5105: macro expansion producing 'defined' has undefined behavior
+C:\Users\Labib\Desktop\MEGAsync\Projects\Snake-C\Snake-C\main.c(182,12): warning C4244: 'function': conversion from 'double' to 'DWORD', possible loss of data
+  Snake-C.vcxproj -> C:\Users\Labib\Desktop\MEGAsync\Projects\Snake-C\Debug\Snake-C.exe
