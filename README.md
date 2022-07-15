@@ -19,7 +19,7 @@ Please clone the repo or download the zip. Go into the release directory and lau
 The main libraries needed for this game to work
 ![Includes](includes.svg)
 
-The main game loop that runs:
+The main game loop that runs
 ![Game Loop](carbon.svg)
 
 An array stores information about the game board inside an array. This array has boarders made with stars (*) and the inside is filled with space charecters '_'. The game loop goes through various functions for different components of the game:
