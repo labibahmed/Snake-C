@@ -3,7 +3,7 @@
 ## What This Is
 This is my personal snake game that I made using C and Visual Studio. The game can be downloaded and played in the terminal. This is one of my first C projects, so it is made quite simple and easy to play. The game itself implemented many of the basic C concepts such as structs, enums, loops, etc.
 
-![game](Recording 2022-07-15 at 17.30.24.gif)
+![game](gameSample.gif)
 
 ## Installation
 Please clone the repo or download the zip. Go into the release directory and launch the snake-c.exe to play!
@@ -17,10 +17,12 @@ Please clone the repo or download the zip. Go into the release directory and lau
 
 ## How the game works
 The main libraries needed for this game to work
-![Includes](includes.svg)
+
+<img src="includes.svg" width="300">
 
 The main game loop that runs
-![Game Loop](carbon.svg)
+
+<img src="carbon.svg" width="300">
 
 An array stores information about the game board inside an array. This array has boarders made with stars (*) and the inside is filled with space charecters '_'. The game loop goes through various functions for different components of the game:
 - Input is responsible for gathering the user input asynchronously
